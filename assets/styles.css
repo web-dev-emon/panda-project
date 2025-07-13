@@ -108,7 +108,7 @@ align-items: center;
 .Catagories-card-container{
 justify-content: space-between;
     display: flex;
-    gap: 5px;
+    gap: 20px;
 }
 .categories-card-1{
 
@@ -156,3 +156,102 @@ font-size: 36px;
     width: 94px;
     height: 94px;
  }
+/* shows-items */
+   
+
+.shows-items-1{ 
+   background-color: #f8f6f6;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    gap: 24px;
+display: flex;
+
+}
+.Panda-btn-2{
+    
+ border: none;
+padding: 14px 20px 14px 20px;
+font-weight: 450px;
+font-size:16px;
+color: #FFFFFF;
+border-radius: 6px;
+background: rgb(0, 0, 0);
+gap: 5px;
+}
+
+.shows-items img {
+
+    position: static;
+width: 336px;
+height: 202px;
+}
+
+
+.shows-items h4{
+font-size: 24px;
+font-weight: bold;
+}
+.see-all{
+    font-size: 30px;
+    font-style: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* backpack */
+
+.shows-items-2 {
+background-color: #f8f6f6;
+    margin: auto;
+    padding: 20px;
+    align-items: center;
+    gap: 24px;
+display: flex;
+background: #ff136f;
+width: 1130px;
+height: 322px;
+background: #fdfcfd;
+padding-top: 120px;
+align-items: center;
+
+}
+.shows-items-2 img{
+
+    width: 290px;
+    height: 290px;
+}
+
+/* footer */
+footer {
+
+   display: flex;
+flex-direction: column;
+
+align-items: center;
+gap: 4;
+background: rgb(255, 242, 241);
+}
+footer h2{
+
+padding-top: 20px;
+color: rgb(31, 31, 31);
+font-size: 30px;
+font-weight: 600px;
+line-height: 45px;
+
+}
+
+footer button{
+padding: 14px 20px 14px 20px;
+font-weight: 50px;
+font-size:16px;
+color: #FFFFFF;
+ background-color: #ff136f;
+border-radius: 0px 20px 00px 20px;
+gap: 5px;
+}
+
+
+
